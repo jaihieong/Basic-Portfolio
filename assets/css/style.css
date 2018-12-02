@@ -1,0 +1,76 @@
+nav ul li
+{
+    border: 3px solid black;
+    margin: auto;
+    overflow: auto;
+    list-style-type: none;
+    overflow: hidden;
+    display: block;
+    text-decoration: none;
+    
+}
+.jaian
+{
+    width: 30%;
+    float: left;
+    text-align: left;
+    padding-left: 10px;
+    border: 3px solid red;
+
+}
+.menu
+{
+    width: 60%;
+    float: left;
+    border: 3px solid blue;
+    text-align: center;
+    
+}
+body 
+{
+    width: 960px;
+    text-align: center;
+    margin: auto;
+    padding: 75px;
+    border: 1px solid black;
+    
+    
+}
+.main_bg
+{
+    margin: auto;
+    padding: 1% 15%;
+    border: 1px solid black;
+    /*** I cannot figure out why this background image isn't displaying ***/
+    background-image: url("assets/images/concrete.gif");
+    
+    
+    
+}
+.aboutme
+{
+    width: 100%;
+    float: left;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid black;
+    
+}
+.profile_photo
+{
+    float: left;
+    width: 20%;
+    height: auto;
+    padding: 3px;
+    border: 1px solid black;
+}
+.intro_paragraphs
+{
+
+}
+#footer
+{
+    background-color: gray;
+    border-top: 3px solid blue;
+    padding: 10px;
+}
